@@ -1,6 +1,6 @@
 # AudioContext
 
-Just code for one API by enjoying this polyfill for the **[Web Audio API](http://caniuse.com/audio-api) at [W3](https://dvcs.w3.org/hg/audio/raw-file/tip/webaudio/specification.html)**, following the upgrade path outlined at [MDN](https://developer.mozilla.org/en-US/docs/Web_Audio_API/Porting_webkitAudioContext_code_to_standards_based_AudioContext).
+Just code for one API by enjoying this polyfill for the **[Web Audio API](http://caniuse.com/audio-api)** at [W3](https://dvcs.w3.org/hg/audio/raw-file/tip/webaudio/specification.html), following the upgrade path outlined at [MDN](https://developer.mozilla.org/en-US/docs/Web_Audio_API/Porting_webkitAudioContext_code_to_standards_based_AudioContext).
 
 ## Why this is useful
 
@@ -12,7 +12,7 @@ Including this polyfill will improve your experience coding for Chrome 10-30, Fi
 
 ## Examples of the Audio API
 
-Here, we load a sound and autoplay it.
+Let&rsquo;s load a sound and autoplay it.
 
 ```javascript
 var
