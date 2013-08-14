@@ -4,7 +4,7 @@ Just code for one API by enjoying this polyfill for the **[Web Audio API](http:/
 
 ## Why this is useful
 
-First, as the **Web Audio API** evolved, many method names were changed from what we now find in older Chrome and Safari browsers (e.g. **bufferNode.noteOn()** became **buffer.start()**. Second, older browsers retained a vendor prefixed **Audio Context** method (e.g. **window.AudioContext** was still **window.webkitAudioContext**).
+First, as the **Web Audio API** evolved, many method names were changed from what we find in older Chrome and Safari browsers (e.g. **bufferNode.noteOn()** became **buffer.start()**. Second, older browsers retained a vendor prefixed **Audio Context** method (e.g. **window.AudioContext** was still **window.webkitAudioContext**).
 
 ## Which browsers this will effect
 
